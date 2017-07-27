@@ -1,3 +1,5 @@
+#I get it! I get it!
+
 # Introduction to REST
 
 ## Objectives
